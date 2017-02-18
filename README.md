@@ -16,3 +16,6 @@ return number of devices attached to I2C
 uint8_t getAddressAt(int position);
 
 get address of device attach at position listed from above method [ getNoOfDevices() ]
+
+
+-Sidharth
